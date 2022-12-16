@@ -5,5 +5,12 @@
 
 #one {
    color: blue;
-   font-size: medium;
+   font-size: x-large;
+   font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#two {
+   font-family: "Verdana", "DejaVu Sans", sans-serif;
+   background-color: green;
+   font-weight: bold;
 }
